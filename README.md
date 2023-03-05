@@ -1,4 +1,3 @@
-#Me aperfeiçoando no git
+Alterando as informações e comparando com git diff
 
-realizando alteração
-linha adicionada a partir da branch exemplo 01
+Alterando mais um pouco
